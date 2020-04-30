@@ -1,6 +1,9 @@
 This docker image contains an alpine base image with git and mysql-client.
 It useful for running command on remote mysql DB (Like mysqldump) and run git commands like push file to remote git repository.
 
+DockerHub repository:
+[https://hub.docker.com/r/sha4321/git-mysql-client](https://hub.docker.com/r/sha4321/git-mysql-client)  
+
 `Dockerfile`
 
 ```
